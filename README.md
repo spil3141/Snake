@@ -1,2 +1,2 @@
 # Snake
-Classic computer snake game written in C
+Classic console snake game written in C.
