@@ -1,6 +1,6 @@
 ﻿
 #include <stdio.h>
-#include <conio.h> // getch()
+#include <conio.h> // _getch()
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
