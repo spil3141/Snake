@@ -5,8 +5,7 @@ classic snake game written in C.
 - Microsoft Visual Studio 2019 C/C++ Project
 
 ### Screenshots
-
-![Screenshot 1](https://trello-attachments.s3.amazonaws.com/5f066448ad4865740ae83658/5fc37ac7ebb86d58a781eef0/f6e80c3acb5fa6f3bc4f5b0636969be0/image.png)
+coming soon
 
 # How to use
 ## For Windows Only
