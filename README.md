@@ -1,11 +1,8 @@
 # Snake
 classic snake game written in C.
 
-### Setup i used
+### Development Environment
 - Microsoft Visual Studio 2019 C/C++ Project
-
-### Screenshots
-coming soon
 
 # How to use
 ## For Windows Only
